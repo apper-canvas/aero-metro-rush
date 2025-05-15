@@ -33,7 +33,7 @@ function Home({ darkMode, toggleDarkMode }) {
               🏃
             </motion.div>
             <h1 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              Vivek2-Rush
+              Vivek3-Rush
             </h1>
           </div>
           
@@ -102,7 +102,7 @@ function Home({ darkMode, toggleDarkMode }) {
       <footer className="py-6 px-4 sm:px-6 md:px-8 bg-surface-100 dark:bg-surface-800 border-t border-surface-200 dark:border-surface-700">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-surface-600 dark:text-surface-400 mb-4 md:mb-0">
-            © 2023 Vivek2-Rush. All rights reserved.
+            © 2023 Vivek3-Rush. All rights reserved.
           </p>
           <div className="flex items-center space-x-4">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer" 
